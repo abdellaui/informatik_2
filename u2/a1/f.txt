@@ -1,0 +1,2 @@
+O(4^N), da mathematisch betrachtet:
+(2^(4N))^(1/2) => 4^N

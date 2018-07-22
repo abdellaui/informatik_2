@@ -1,0 +1,3 @@
+O(1), da N -> +oo  (ln(2)/ln(N))+1 gegen 1 konvergiert.
+ln(2N)/ln(2) => (ln(2)/ln(N))+1
+

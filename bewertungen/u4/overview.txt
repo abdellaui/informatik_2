@@ -1,0 +1,18 @@
+a1/Autotests.txt
+	28/28
+a1/reverse_quick_sort.cpp.txt
+	12/12
+a2/Apple.cpp.operator<.func.txt
+	4/4
+a2/Autotests.txt
+	40/40
+a2/Binary_heap.cpp.del_max.func.txt
+	4/4
+a2/Binary_heap.cpp.insert.func.txt
+	4/4
+a2/Binary_heap.cpp.sink.func.txt
+	3/4
+a2/Binary_heap.cpp.swim.func.txt
+	4/4
+--------------------------------------------------------------------------------
+Gesamt: 99/100

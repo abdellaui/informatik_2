@@ -1,0 +1,20 @@
+Autotest 1: 2.3 Insert an entry
+	0/3
+Autotest 2: 2.3 Insert an Entry twice at the same position
+	0/4
+Autotest 3: 2.3 Insert an Entry twice at the same position at the end
+	0/4
+Autotest 4: 2.4 Get the index for an inserted hash
+	0/5
+Autotest 5: 2.4 Insert twice at same position, get index of second
+	6/6
+Autotest 6: 2.5 Remove a single Entry
+	4/4
+Autotest 7: 2.5 Two in a row - Remove second entry
+	0/4
+Autotest 8: 2.5 Two in a row - Remove first entry
+	0/4
+Autotest 9: 2.5 Merged clusters - Remove last of first cluster
+	0/5
+================================================================================
+Gesamt: 10/39

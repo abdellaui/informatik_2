@@ -1,0 +1,28 @@
+a1/Autotests.txt
+	28/28
+a1/buffy_vampire_slayer.cpp.count_creatures.func.txt
+	4/4
+a1/buffy_vampire_slayer.cpp.create_attack_plan.func.txt
+	4/4
+a1/buffy_vampire_slayer.cpp.sort.func.txt
+	4/4
+a2/Autotests.txt
+	22/22
+a2/a.txt.txt
+	5/5
+a2/b.txt.txt
+	4/5
+a2/c.txt.txt
+	3/5
+a2/d.txt.txt
+	2/5
+a2/insertion/insertion_string.cpp.compare_by_frequency.func.txt
+	4/4
+a2/insertion/insertion_string.cpp.txt
+	4/4
+a2/selection/selection_string.cpp.txt
+	3/4
+a2_sel/Autotests.txt
+	6/6
+--------------------------------------------------------------------------------
+Gesamt: 93/100

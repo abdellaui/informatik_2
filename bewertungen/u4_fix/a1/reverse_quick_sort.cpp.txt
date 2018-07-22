@@ -1,0 +1,21 @@
+Matrikelnummer: 108016202304
+Uebung: a1
+Aufgabenteil: reverse_quick_sort.cpp
+--------------------------------------------------------------------------------
+Richtiger Algorithmus? (Kein Hardcoding, kein anderer Algorithmus)
+	3/3
+
+--------------------------------------------------------------------------------
+Ist der Code sinnvoll dokumentiert?
+	3/3
+
+--------------------------------------------------------------------------------
+Wurden sinnvolle Bezeichner verwendet?
+	3/3
+
+--------------------------------------------------------------------------------
+Ist der Code gut lesbar? (Einrueckung, Non-obfuscated, Magic constants...)
+	3/3
+
+--------------------------------------------------------------------------------
+Gesamt: 12/12

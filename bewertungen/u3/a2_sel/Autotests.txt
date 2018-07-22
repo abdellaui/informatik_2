@@ -1,0 +1,6 @@
+Autotest 1: Loop through string vector: sel example 1
+	3/3
+Autotest 2: Loop through string vector: sel example 2
+	3/3
+================================================================================
+Gesamt: 6/6

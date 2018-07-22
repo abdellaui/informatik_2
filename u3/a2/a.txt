@@ -1,0 +1,1 @@
+Bei kleinen Eingaben wird es keine gravierenden Unterschiede zeigen, jedoch tediniere ich zur insertion_sort, da diese einen besseren Best-Case hat O(N).

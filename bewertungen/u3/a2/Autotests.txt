@@ -1,0 +1,10 @@
+Autotest 1: Count the # of characters correctly: example 1
+	3/3
+Autotest 2: Count the # of characters correctly: example 2
+	3/3
+Autotest 3: Loop through string vector: ins example 1
+	8/8
+Autotest 4: Loop through string vector: ins example 2
+	8/8
+================================================================================
+Gesamt: 22/22

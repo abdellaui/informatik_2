@@ -1,0 +1,2 @@
+Der Parameter mit der Rolle des Indexes bei der  insert/remove-_at_index Methoden würde konstant 0 bleiben, da man nur am Anfang hinzufügt oder entnimmt.
+Stattdessen muss man bei meiner Implementierung bei der push-Methode zuerst mit einer while-Schleife an das Ende der Liste iterieren, um somit den Index des letzten Elementes zu emitteln. Mit insert_at_index und der ermittelten Index kann man nun an das Ende der Queue ein neues Knoten einfügen.

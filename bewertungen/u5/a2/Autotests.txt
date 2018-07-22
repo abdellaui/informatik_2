@@ -1,0 +1,16 @@
+Autotest 1: 2.2 Spaceship: Class Speed 250 == Class Speed 260
+	3/3
+Autotest 2: 2.2 Spaceship: Class Speed 250 != Class Speed 310
+	3/3
+Autotest 3: 2.3 Binary Search -- Single Entry
+	7/7
+Autotest 4: 2.3 Binary Search -- Same Class
+	7/7
+Autotest 5: 2.3 Binary Search -- More Classes
+	8/8
+Autotest 6: 2.4 Fastest of Class -- Test
+	8/8
+Autotest 7: 2.4 Fastest of Class -- Blatt
+	8/8
+================================================================================
+Gesamt: 44/44

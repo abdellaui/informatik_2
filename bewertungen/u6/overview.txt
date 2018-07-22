@@ -1,0 +1,22 @@
+a1/Autotests.txt
+	33/33
+a2/Autotests.txt
+	10/39
+a3/Autotests.txt
+	18/18
+u6/a1/Dir_or_File.cpp.insert.func.txt
+	8/8
+u6/a1/Dir_or_File.cpp.split_after_slash.func.txt
+	4/4
+u6/a2/Linear_probing_hash_table.cpp.get_index.func.txt
+	4/4
+u6/a2/Linear_probing_hash_table.cpp.insert.func.txt
+	4/4
+u6/a2/Linear_probing_hash_table.cpp.remove.func.txt
+	8/8
+u6/a3/Undirected_graph.cpp.add_edge.func.txt
+	4/4
+u6/a3/dfs_or_bfs.cpp.add_neighbors.func.txt
+	8/8
+--------------------------------------------------------------------------------
+Gesamt: 101/130

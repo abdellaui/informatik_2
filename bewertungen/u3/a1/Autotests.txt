@@ -1,0 +1,14 @@
+Autotest 1: Sums of creature powers: example 1
+	3/3
+Autotest 2: Sums of creature powers: example 2
+	3/3
+Autotest 3: Sorted by creature types: example 1
+	8/8
+Autotest 4: Sorted by creature types: example 2
+	8/8
+Autotest 5: Attack plan: example 1
+	3/3
+Autotest 6: Attack plan: example 2
+	3/3
+================================================================================
+Gesamt: 28/28

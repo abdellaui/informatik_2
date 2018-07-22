@@ -1,0 +1,16 @@
+a1/Autotests.txt
+	32/32
+a1/Hash_table.cpp.txt
+	4/4
+a1/string_hash.cpp.txt
+	4/4
+a2/Autotests.txt
+	44/44
+a2/Spaceship.cpp.txt
+	4/4
+a2/binary_search.cpp.txt
+	7/8
+a2/fastest_of_class.cpp.txt
+	4/4
+--------------------------------------------------------------------------------
+Gesamt: 99/100

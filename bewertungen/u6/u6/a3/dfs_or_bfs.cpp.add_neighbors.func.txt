@@ -1,0 +1,21 @@
+Matrikelnummer: 108016202093_108016202304_108016246072
+Uebung: u6
+Aufgabenteil: a3/dfs_or_bfs.cpp.add_neighbors.func
+--------------------------------------------------------------------------------
+Richtiger Algorithmus? (Kein Hardcoding, kein anderer Algorithmus)
+	2/2
+
+--------------------------------------------------------------------------------
+Ist der Code sinnvoll dokumentiert?
+	2/2
+
+--------------------------------------------------------------------------------
+Wurden sinnvolle Bezeichner verwendet?
+	2/2
+
+--------------------------------------------------------------------------------
+Ist der Code gut lesbar? (Einrueckung, Non-obfuscated, Magic constants...)
+	2/2
+
+--------------------------------------------------------------------------------
+Gesamt: 8/8

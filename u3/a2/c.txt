@@ -1,0 +1,1 @@
+selection_sort, da diese von Anfang bis Ende in einem Durchgang sortiert. Insertion_sort hingegen müsste paarweise sortieren, bis das Gesamte sortiert ist.

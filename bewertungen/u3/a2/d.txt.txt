@@ -1,0 +1,15 @@
+Matrikelnummer: 108016202304
+Uebung: a2
+Aufgabenteil: d.txt
+--------------------------------------------------------------------------------
+Korrekt?
+	0/1
+Kommentar:
+	O(0) gibt es nicht, meinen Sie O(1)? Ueberpruefen Sie auch bitte die Anzahl an Swaps beim insertion sort algorithmus.
+
+--------------------------------------------------------------------------------
+Sinnvoll erklaert?
+	2/4
+
+--------------------------------------------------------------------------------
+Gesamt: 2/5

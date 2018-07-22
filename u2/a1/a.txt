@@ -1,0 +1,1 @@
+O(N) , da N das meiste Gewicht hat.

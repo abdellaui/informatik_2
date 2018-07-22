@@ -1,0 +1,1 @@
+Eindeutig insertion_sort, da diese ein Array nicht zwangsläufig doppelt iterieren muss, siehe Best-Case O(N).

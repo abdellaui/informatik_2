@@ -1,0 +1,10 @@
+Autotest 1: 1.1 Comparing Oranges: (1 5) < (2 2)
+	5/5
+Autotest 2: 1.1 Comparing Oranges: !((2 5) < (2 2))
+	5/5
+Autotest 3: 1.2 Sorting Oranges -- Blatt
+	9/9
+Autotest 4: 1.2 Sorting Oranges -- Four Oranges
+	9/9
+================================================================================
+Gesamt: 28/28

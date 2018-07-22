@@ -1,0 +1,4 @@
+O(2N^3), da größere Potenz schneller wächst.
+N^3(2-(15/N)+(1/N^2)) 
+=> N^3(2 - 0 + 0) 
+=> 2N^3

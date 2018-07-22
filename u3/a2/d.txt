@@ -1,0 +1,28 @@
+Durchläufe:
+-------------------
+Best-Case
+selection: O(N^2);
+insertion: O(N);
+
+Average-Case:
+selection: O(N^2);
+insertion: O(N^2);
+
+Worst-Case:
+selection: O(N^2);
+insertion: O(N^2);
+
+
+Swaps:
+-------------------
+Best-Case
+selection: O(0);   // Wenn man x!=minIndex nicht abfragt dann => O(n-1) => O(n); 
+insertion: O(0);
+
+Average-Case:
+selection: O(N);
+insertion: O(N);
+
+Worst-Case:
+selection: O(N);
+insertion: O(N^2);

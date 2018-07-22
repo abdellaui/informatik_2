@@ -1,0 +1,1 @@
+O(6)=O(1), da N -> +oo  1/N und 2/N gegen 0 konvergiert und da gilt: O(2) = O(1)
